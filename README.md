@@ -3,7 +3,7 @@ A script to download a bunch of screensaver images. The images are either public
 
 TODO items:
 
--- Add the main download script
+x Add the main download script
 
 -- Add a comment over each image in the script telling where to find license info for that image
 
