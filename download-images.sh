@@ -56,3 +56,5 @@ curl -o image26.jpg https://upload.wikimedia.org/wikipedia/commons/3/3f/Mi-cap-D
 
 curl -o image27.jpg https://upload.wikimedia.org/wikipedia/commons/a/a2/MSU_Beaumont_Tower_1.jpg
 
+curl -o image27.jpg https://upload.wikimedia.org/wikipedia/commons/2/2e/Panke2.jpg
+
