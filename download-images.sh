@@ -2,6 +2,8 @@ cd ~/Pictures/
 mkdir screensaver-images
 cd screensaver-images/
 
+curl -o image01.jpg https://upload.wikimedia.org/wikipedia/commons/5/5c/Vset%C3%ADn%2C_Doln%C3%AD_n%C3%A1m%C4%9Bst%C3%AD.jpg
+
 curl -o image01.jpg https://upload.wikimedia.org/wikipedia/commons/b/b5/Berlin_-_Flughafen_Tempelhof_-_2016.jpg
 
 curl -o image02.jpg https://upload.wikimedia.org/wikipedia/commons/7/74/Berlin_Brandenburger_Tor_Nacht.jpg
