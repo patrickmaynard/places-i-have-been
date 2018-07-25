@@ -63,3 +63,5 @@ curl -o image28.jpg https://upload.wikimedia.org/wikipedia/commons/2/2e/Panke2.j
 curl -o image29.jpg https://upload.wikimedia.org/wikipedia/commons/c/c5/Berlin-Mitte%2C_the_world_clock_on_the_Alexanderplatz.JPG
 
 curl -o image30.jpg https://upload.wikimedia.org/wikipedia/commons/a/a7/Cleveland_from_Superior_Viaduct.jpg
+
+curl -o image31.jpg https://upload.wikimedia.org/wikipedia/commons/7/7c/Kalamazoo.jpg
