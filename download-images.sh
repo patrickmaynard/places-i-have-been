@@ -67,3 +67,11 @@ curl -o image30.jpg https://upload.wikimedia.org/wikipedia/commons/a/a7/Clevelan
 curl -o image31.jpg https://upload.wikimedia.org/wikipedia/commons/7/7c/Kalamazoo.jpg
 
 curl -o image32.jpg https://upload.wikimedia.org/wikipedia/commons/a/a1/Pam%C4%9Btn%C3%AD_k%C3%A1men_Osvobozen%C3%AD_%28Vset%C3%ADn%29%2C_n%C3%A1m._Svobody%2C_Vset%C3%ADn.JPG
+
+curl -o image33.jpg https://upload.wikimedia.org/wikipedia/commons/5/58/Velk%C3%A9-Karlovice-zast%C3%A1vka2013.jpg
+
+curl -o image34.jpg https://upload.wikimedia.org/wikipedia/commons/7/75/Vala%C5%A1sk%C3%A9_Mezi%C5%99%C3%AD%C4%8D%C3%AD%2C_soutok_Ro%C5%BEnovsk%C3%A9_Be%C4%8Dvy_a_Vset%C3%ADnsk%C3%A9_Be%C4%8Dvy_%2801%29.jpg
+
+curl -o image35.jpg https://upload.wikimedia.org/wikipedia/commons/a/a4/VB44_Vset%C3%ADnsk%C3%A1_Be%C4%8Dva_na_Vset%C3%ADn%C4%9B_pod_Horn%C3%ADm_m%C4%9Bstem.jpg
+
+
