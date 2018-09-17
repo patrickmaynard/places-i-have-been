@@ -65,3 +65,5 @@ curl -o image29.jpg https://upload.wikimedia.org/wikipedia/commons/c/c5/Berlin-M
 curl -o image30.jpg https://upload.wikimedia.org/wikipedia/commons/a/a7/Cleveland_from_Superior_Viaduct.jpg
 
 curl -o image31.jpg https://upload.wikimedia.org/wikipedia/commons/7/7c/Kalamazoo.jpg
+
+curl -o image32.jpg https://upload.wikimedia.org/wikipedia/commons/a/a1/Pam%C4%9Btn%C3%AD_k%C3%A1men_Osvobozen%C3%AD_%28Vset%C3%ADn%29%2C_n%C3%A1m._Svobody%2C_Vset%C3%ADn.JPG
