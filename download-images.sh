@@ -74,4 +74,4 @@ curl -o image34.jpg https://upload.wikimedia.org/wikipedia/commons/7/75/Vala%C5%
 
 curl -o image35.jpg https://upload.wikimedia.org/wikipedia/commons/a/a4/VB44_Vset%C3%ADnsk%C3%A1_Be%C4%8Dva_na_Vset%C3%ADn%C4%9B_pod_Horn%C3%ADm_m%C4%9Bstem.jpg
 
-
+curl -o image36.jpg https://upload.wikimedia.org/wikipedia/commons/1/18/Vset%C3%ADn%2C_kostel_Nanebevzet%C3%AD_Panny_Marie_z_v%C4%9B%C5%BEe_z%C3%A1mku.jpg
